@@ -1,17 +1,17 @@
 html {
-  scroll-behavior: smooth;
+    scroll-behavior: smooth;
 }
 
 body,
 a {
-  background-color: #161616;
+    background-color: #161616;
 }
 
 .visually-hidden {
-  display: none;
+    display: none;
 }
 
 .card-category,
 .section-tagline {
-  background-color: #d73953;
+   background-color: #d73953;
 }
