@@ -39,23 +39,25 @@ html {
   --section-tagline-transform: uppercase;
 
   --section-title-margin: 0;
-  --section-title-color: var(var(--color-black));
+  --section-title-color: var(--color-black);
 }
 
 body,
 a {
   color: var(--text-color);
   font-family: var(--font-family-base);
-  line-height: var(--line-height-base);
+
 }
 
 body {
   font-size: var(--font-size-medium);
   font-weight: var(--font-weight-regular);
+  line-height: var(--line-height-base);
 }
 
 a {
   text-decoration: none;
+  
 }
 
 .visually-hidden {
